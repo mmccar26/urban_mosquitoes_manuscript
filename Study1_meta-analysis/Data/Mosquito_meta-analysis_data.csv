@@ -1,0 +1,16 @@
+Study,Study.ID,ES.ID,Year,Taxon,Development.stage,Status,SS.low,SS.high,Std.dev.low,Std.dev.high,Mean.low,Mean.high
+Becker et al.,1,1,2014,Culex pipiens,Adult,NA,2,2,1.866761902,0.890954544,3.29,0.63
+Becker et al.,1,2,2014,Aedes albopictus,Larvae,NA,2,2,8.994398257,2.71529004,14.78,2.96
+Becker et al.,1,3,2014,Aedes albopictus,Adult,NA,2,2,19.02117241,4.808326112,70.57,11
+Becker et al.,1,4,2014,Culex pipiens,Larvae,NA,2,2,19.9686955,12.11981023,26.22,8.57
+Donnelly et al.,2,5,2020,Aedes aegypti,Adult,42K (low); 75k (high),93,68,3.100847,2.955951,3.409,2.897
+Feldstein et al.,3,6,2018,Mosquitoes general,Adult,<50K (low); >50K (high),167,50,24.7761,26.1911,80,85
+Goodman et al.,4,7,2018,Aedes albopictus,Adult,<50K (low); >50K (high),6,6,0.042222222,0.152592593,0.106,0.194
+Hernandez et al.,5,8,2019,Mosquitoes general,Adult,<50K (low); >50K (high),5,5,4.937,4.066,3.3646,7.624
+Little et al.,6,9,2017,Aedes albopictus,Larvae,<50K (low); >50K (high),3,3,0.19398969,0.06408588,0.365,0.113
+Little et al.,7,10,2021,Aedes albopictus,Adult,<40K (low); >57K (high),9,4,4.545845,3.906265,8.515,6.255
+Martin et al.,8,11,2019,Aedes aegypti,Adult,<50K (low); >50K (high),4,4,4.77,3.41,3.17,2.48
+Ruiz et al.,9,12,2017,Mosquitoes general,Adult,<50K (low); >50K (high),32,16,6.4377,3.2115,15.2,3.8
+Shragai and Harrington ,10,13,2019,Aedes albopictus,Adult,<50K (low); >110K (high),45,52,2.155627,2.1515235,0.069,0.0545
+Unlu et al.,11,14,2010,Aedes albopictus,Adult,<50K (low); >50K (high),6,3,9.036167661,3.922517729,29.185,23.633
+Walker et al.,12,15,2018,Aedes aegypti,Larvae,<35K (low); >50K,105,163,0.512347538,0.680914418,0.97,0.84
