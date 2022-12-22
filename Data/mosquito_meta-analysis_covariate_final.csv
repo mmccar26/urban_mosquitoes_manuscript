@@ -1,0 +1,22 @@
+Study,ID,Year,Region,State,Covariate,Development.stage,SES,SS.low,SS.high,Std.dev.low,Std.dev.high,Mean.low,Mean.high,Data
+Becker et al.,1,2014,Baltimore,Maryland,Buildings,Adult,NA,2,2,7.8165,0.2929,18,1,Table 2
+Becker et al.,1,2014,Baltimore,Maryland,Containers,Adult,NA,2,2,0.113137085,0.367695526,0.26,2.57,Table 1
+Bordner et al.,2,2016,"Washington, DC","Washington, DC",Containers,Larvae,NA,31,40,2.922,4.5843,2.375,2.869,Supplemental Material
+Bordner et al.,2,2016,"Washington, DC","Washington, DC",Education,Larvae,NA,31,40,0.4497,0.158,0.2667,0.975,Supplemental Material
+Chambers et al.,3,1986,East Baton Rouge,Louisiana,Containers,Larvae,NA,3,3,6.923155,3.555806,14.95,12.14,Table 2
+Crespo et al.,4,2021,Baton Rouge,Louisiana,Containers,Adult,"31,879 to 66,319",56,44,2.685519643,0.066568182,0.482142857,0.227272727,Table 2
+Crespo et al.,5,2022,New Orleans,Louisiana,Vegetation index,Larvae,<30K (low); >70K (high),3,3,0.299555226,1.010758791,0.416666667,3.606666667,Table 1
+Crespo et al.,5,2022,New Orleans,Louisiana,Containers,Adult,<30K (low); >70K (high),3,3,0.216506351,0.034121401,0.375,0.053333333,Table 1
+Donnelly et al.,6,2020,Los Angeles,California,Containers,Adult,42K (low); 75k (high),93,68,16.2962963,12,20.4,19.4,Table 1
+Donnelly et al.,6,2020,Los Angeles,California,Vegetation index,Adult,42K (low); 75k (high),93,68,89.925,201.037,379,630,Table 1
+Dowling et al_a,7,2013,"Washington, DC","Washington, DC",Education,Larvae,<45K (low); >90K (high),80,80,1.019646998,0.769207384,1.394,1.676,Figure 3a
+Dowling et al_b,8,2013,"Washington, DC","Washington, DC",Containers,Larvae,<45K (low); >90K (high),80,80,27.67357729,27.95979399,3.938,3.844,Figure 1
+Hopken et al.,9,2021,San Juan,California,Containers,Larvae,<25K (low); >65K (high),14,14,12.98279631,1.20089,21.86,4.1,Table 1
+Hopken et al.,9,2021,San Juan,California,Buildings,Larvae,<25K (low); >65K (high),14,14,0.283438353,0.0902132,0.5234,0.308,Table 1
+Hopken et al.,9,2021,San Juan,California,Vegetation index,Larvae,<25K (low); >65K (high),14,14,0.130135698,0.01,0.1104,0.01,Table 1
+Hopken et al.,9,2021,San Juan,California,Education,Larvae,<25K (low); >65K (high),14,14,0.214802933,0.1798406,0.3336,0.614,Table 1
+LaDeau et al.,10,2013,"Washington, DC","Washington, DC",Containers,Pupae,<50K (low); >50K (high),19,19,0.257334024,0.466052536,0.318,0.333166667,Table 3
+Little et al.,11,2017,Baltimore,Maryland,Buildings,Larvae,<50K (low); >50K (high),15,12,0.608965056,4.948501064,20.67987165,17.12849452,Supplemental Material
+Little et al.,11,2017,Baltimore,Maryland,Vegetation index,Larvae,<50K (low); >50K (high),15,12,0.008740772,0.039958717,1.004240809,1.006284037,Supplemental Material
+Little et al.,11,2017,Baltimore,Maryland,Containers,Larvae,<50K (low); >50K (high),15,12,0.008272197,0.003486544,0.031000827,0.010132341,Supplemental Material
+Walker et al.,12,2018,Tucson,Arizona,Containers,Larvae,<35K (low); >50K,105,63,0.512347538,0.396862697,0.97,0.76,Table S1b

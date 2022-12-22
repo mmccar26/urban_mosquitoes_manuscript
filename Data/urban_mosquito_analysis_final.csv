@@ -1,0 +1,22 @@
+Study,ID,Year,Region,State,Taxon,Development.stage,SES,SS.low,SS.high,Std.dev.low,Std.dev.high,Mean.low,Mean.high,Data
+Becker et al.,1,2014,Baltimore,Maryland,Culex spp.,Adult,NA,2,2,6.505382387,10.9177287,4.6,14.755,Table 2
+Becker et al.,1,2014,Baltimore,Maryland,Aedes albopictus,Larvae,NA,2,2,3.761808076,14.00778533,6.845,42.675,Table 2
+Bodner et al.,2,2016,"Washington, DC","Washington, DC",Aedes albopictus,Pupae,<50K (low); >50K (high),31,40,128.244,83.207,36.424,20.12,Supplemental Material
+Bodner et al.,2,2016,"Washington, DC","Washington, DC",Culex spp.,Pupae,<50K (low); >50K (high),31,40,16.407,50.426,3.458,10.093,Supplemental Material
+Bodner et al.,2,2016,"Washington, DC","Washington, DC",Aedes japonicus,Pupae,<50K (low); >50K (high),31,40,18.222,5.098,2.441,1.36,Supplemental Material
+Chambers et al.,3,1986,East Baton Rouge,Louisiana,Aedes aegypti,Larvae,NA,3,3,9.596775,5.890982,29.25,15.74,Table 3
+Crespo et al.,4,2021,Baton Rouge,Louisiana,Aedes albopictus,Adult,<35K (low); >60K,56,44,1.688200324,6.565795306,2.569333333,4.336,Table 3
+Crespo et al.,5,2022,Baton Rouge,New Orleans,Aedes aegypti,Larvae,<30K (low); >70K (high),3,3,4.944647,2.654242,12.29,3.94,Figure 4
+Crespo et al. ,4,2021,Baton Rouge,Louisiana,Culex spp.,Adult,<35K (low); >60K,56,44,3.532002,4.149177,7.14,9.39,Table 3
+Donnelly et al.,6,2020,Los Angeles,California,Aedes aegypti,Adult,42K (low); 75k (high),93,68,2.4496142,2.3198703,3.194,2.721,Table 1
+Goodman et al.,7,2018,Baltimore,Maryland,Aedes albopictus,Adult,<50K (low); >50K (high),6,6,0.042222222,0.152592593,0.106,0.194,Figure 3
+Hopken et al.,8,2021,San Juan,Puerto Rico,Culex spp.,Adult,<30K (low); >65K (high),34,34,3.918930485,1.654176471,2.81372549,0.294117647,Table 4
+LaDeau et al.,9,2013,"Washington, DC","Washington, DC",Mosquitoes general,Pupae,<50K (low); >50K (high),19,19,5.3464965,1.935576,13.755,1.32,Table 3
+Little et al.,10,2017,Baltimore,Maryland,Aedes albopictus,Larvae/pupae,<50K (low); >50K (high),3,3,0.185329436,0.06408588,0.269833333,0.080666667,Figure 2
+Little et al.,11,2022,High development regions,Pennsylvania,Aedes albopictus,Adult,NA,39,39,1.6374119,1.6275371,0.233,0.197,Figure 4
+Little et al.,11,2022,High development regions,Pennsylvania,Aedes japonicus,Adult,NA,67,67,1.8294219,1.7155874,0.933,0.518,Figure 4
+Ruiz et al.,12,2017,Chicago,Illinois,Mosquitoes general,Adult,<50K (low); >50K (high),32,16,5.74286,2.61584,15.2,3.8,Table 1
+Scavo et al. ,13,2021,San Juan,Puerto Rico,Mosquitoes general,Adult,<35K (low); >50K,6,6,0.864261631,0.683407638,2.839,1.617,Figure 3
+Shragai and Harrington ,14,2019,Southern New York,New York,Aedes albopictus,Adult,<50K (low); >110K (high),45,52,0.3123225,0.34491125,0.069,0.0545,Table 1
+Unlu et al.,15,2010,Mercer & Monmonth County,New Jersey,Aedes albopictus,Adult,<50K (low); >50K (high),4,4,7.067636922,10.58670983,37.3525,28.0225,Figure 5
+Walker et al.,16,2018,Tucson,Arizona,Aedes aegypti,Larvae,<35K (low); >50K,105,63,6.7852,5.05711,19,12.7,Table S2a
